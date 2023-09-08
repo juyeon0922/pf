@@ -110,7 +110,7 @@ $(document).ready(function(){
 	});
 	
 	//타자치는 효과
-	const $typing = "안녕하세요.\n홍길동의 포트폴리오입니다.";	
+	const $typing = "안녕하세요.\n이주연의 포트폴리오입니다.";	
 	const tyLen = $typing.length; //글자길이
 	console.log( tyLen );//21
 	let i = 0;
